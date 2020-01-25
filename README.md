@@ -1,2 +1,2 @@
-# temtemlumahunterR
- A temtem luma tracker
+# Temtem Luma Hunter (Encounter Tracker)
+ 
